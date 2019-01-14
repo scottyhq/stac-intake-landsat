@@ -5,6 +5,7 @@ dependencies:
   - nomkl
   - s3fs=0.2
   - intake=0.3
+  - intake-xarray=0.2
   - curl=7.62
   - python=3.6
   - xarray=0.11
